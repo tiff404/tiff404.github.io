@@ -1,0 +1,4 @@
+baseURL = 'https://tiff404.github.io'
+languageCode = 'en-us'
+title = "Tiffany's Webpage"
+theme = "hugo-bearcub"
